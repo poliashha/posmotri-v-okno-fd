@@ -325,10 +325,10 @@ ol {
   outline: 1px solid #fff;
 }
 
-.content__list-item{
+.content__list-item {
   padding: 0 3px;
 }
 
-.result__video-container,.content__list-container{
+.result__video-container,.content__list-container {
   position: relative;
 }
